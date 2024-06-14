@@ -9,9 +9,10 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joonamin44)](https://solved.ac/joonamin44/)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jooooooon)](https://solved.ac/jooooooon/)
+<p>
+  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joonamin44">
+  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jooooooon">
+</p>
 
 
 
