@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=DC143C)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=DC143C&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Joonamin's+GitHub!👋)](https://git.io/typing-svg)
 <br>
 
@@ -6,7 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joonamin&show_icons=true&theme=radical"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joonamin&layout=compact&show_icons=true&theme=radical">
 </p>
-
 <br>
 
 <p>
@@ -19,4 +20,8 @@
 ## 📬 Contact
  <a href="mailto:joonamin44@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
- </a>
+ </a><a href="https://kangminjun.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E5511E?style=for-the-badge&logo=Blogger&logoColor=white"/></a> <a href="https://velog.io/@joonamin44"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"></a>
+
+<br><br><br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=150&section=footer)
