@@ -22,7 +22,7 @@
    <a href="mailto:joonamin44@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/> 
 </div>
-<div>
+<div style={"display": "flex"}>
   <a href="https://joonamin.github.io"><img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages Badge"/></a>
   <a href="https://velog.io/@joonamin44"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white" alt="Velog Badge"/></a>
   <a href="https://kangminjun.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E5511E?style=for-the-badge&logo=Blogger&logoColor=white" alt="Tistory Badge"/></a>
